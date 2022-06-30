@@ -1,6 +1,6 @@
 # app_motos
 
-App contra robo de motocicletas
+App para prevenir la compra y venta de motocicletas robadas
 
 ## Getting Started
 
